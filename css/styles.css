@@ -1,0 +1,11 @@
+h2.intro {
+  color: red;
+  font-family: fantasy;
+}
+p.intro {
+  font-family: sans-serif;
+  font-style: italic;
+}
+img.intro {
+  image-resolution: snap;
+  }
